@@ -1,4 +1,4 @@
-<h1 align="center">I'm a C#/C++ expert
+<h1 align="center">I'm an expert C#/C++ developer
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
   </strong>
 </p>
 
-- Programming languages: C#
+- Programming languages: C#/C++
 - Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Xamarin, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest, Unity, etc.
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - GitHub, , GitLab, Bitbucket
