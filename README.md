@@ -33,7 +33,7 @@
 
 
 <p align="center">
- <a href="#" alt="Roman's github stats">
+ <a href="#" alt="github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ilromali&theme=tokyonight&show_icons=true" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilromali" /> -->
  </a>
