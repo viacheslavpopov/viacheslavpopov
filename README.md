@@ -33,15 +33,8 @@
 
 
 <p align="center">
- <a href="#" alt="github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilromali&theme=tokyonight&show_icons=true" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilromali" /> -->
- </a>
-</p>
-
-<p align="center">
  <a href="#" alt="Saiful Islam's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=saifaustcse&theme=tokyonight&show_icons=true" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilromali" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" /> -->
  </a>
 </p>
