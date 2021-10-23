@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Roman 👋
+<h1 align="center">I'm a C# expert
 </h1>
 
 <p align="center">
