@@ -1,4 +1,4 @@
-<h1 align="center">I'm an expert C# developer
+<h1 align="center">I'm a certified C# developer
 </h1>
 
 <p align="center">
