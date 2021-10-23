@@ -7,12 +7,12 @@
   </strong>
 </p>
 
-- Programming languages: C#, C++
+- Programming languages: C#, C++, SQL
 - Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Xamarin, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest, etc.
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - GitHub, , GitLab, Bitbucket
 - AWS Lambda, AWS Elastic Beanstalk, Amazon Elastic Compute Cloud, Amazon EC2, etc.
-
+- Azure, Heroku
 
 <p align="center">
  
@@ -35,6 +35,6 @@
 <p align="center">
  <a href="#" alt="Roman's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ilromali&theme=tokyonight&show_icons=true" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilromali" /> -->
  </a>
 </p>
