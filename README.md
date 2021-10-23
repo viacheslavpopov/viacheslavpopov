@@ -30,3 +30,11 @@
 <!-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" /> -->
 
 </p>
+
+
+<p align="center">
+ <a href="#" alt="Saiful Islam's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifaustcse&theme=tokyonight&show_icons=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" /> -->
+ </a>
+</p>
