@@ -27,7 +27,7 @@
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mssql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mysql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
-<!-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" /> -->
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" /> 
 
 </p>
 
