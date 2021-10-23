@@ -2,10 +2,9 @@
 </h1>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
- </a>
- <a href="https://www.linkedin.com/in/roman-iliashenko-887460217/">
- </a>
+ <strong>
+  Professional skills
+  </strong>
 </p>
 
 
