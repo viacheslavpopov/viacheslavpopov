@@ -7,7 +7,6 @@
   </strong>
 </p>
 
-<br />
 
 <p align="center">
  
