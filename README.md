@@ -17,11 +17,10 @@
 <br />
 
 - Programming languages: C#
-- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Xamarin, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest, Unity, etc.
+- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest, Unity.
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - GitHub, , GitLab, Bitbucket
-- AWS Lambda, AWS Elastic Beanstalk, Amazon Elastic Compute Cloud, Amazon EC2, etc.
-- Azure, Heroku
+- Azure, AWS, Heroku
 
 <p align="center">
  
