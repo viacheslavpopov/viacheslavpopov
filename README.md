@@ -17,7 +17,8 @@
 <br />
 
 - Programming languages: C#
-- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest, Unity.
+- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest.
+- Game engine: Unity
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - GitHub, , GitLab, Bitbucket
 - Azure, AWS, Heroku
