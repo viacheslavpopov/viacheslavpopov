@@ -16,11 +16,11 @@
 
 <br />
 
-- Programming languages: C#
-- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest.
-- Game engine: Unity
+- Programming languages: C#, SQL
+- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Angular, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest.
+- 3D engine: Unity
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
-- GitHub, , GitLab, Bitbucket
+- GitHub
 - Azure, AWS, Heroku
 
 <p align="center">
