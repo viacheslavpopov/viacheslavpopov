@@ -16,8 +16,8 @@
 
 <br />
 
-- Programming languages: C#, SQL
-- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Angular, WPF, WinForm, FFmpeg, OpenSSL, Boost, OpenCV, GoogleTest.
+- Programming languages: C#, C++, SQL
+- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Angular, WPF, WinForm, FFmpeg, FileMaker.
 - 3D engine: Unity
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - GitHub
