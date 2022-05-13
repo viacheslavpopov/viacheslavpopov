@@ -1,4 +1,4 @@
-<h1 align="center">I'm a certified C# developer
+<h1 align="center">I'm a certified developer
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br />
 
 - Programming languages: C#, C++, SQL
-- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, ASP.NET Core, Angular, WPF, WinForm, FFmpeg, FileMaker.
+- Frameworks and Libraries: CMake, Qt, .NET, ASP.NET, ASP.NET MVC .NET Core, Angular, WPF, WinForm, FFmpeg, FileMaker.
 - 3D engine: Unity
 - Database: MySQL, PostgreSQL, MongoDB, SQLite
 - GitHub
