@@ -17,7 +17,7 @@
 <br />
 
 - Programming languages: C#, C++
-- Frameworks and Libraries: CMake, Qt, .NET, ASP.NET, ASP.NET MVC .NET Core, Angular, Unity, WPF, WinForm, FFmpeg, FileMaker.
+- Frameworks and Libraries: .NET, ASP.NET, ASP.NET MVC .NET Core, Angular, Unity, Qt, OpenCV, WPF, WinForm, FFmpeg, FileMaker.
 - Database: Myicrosoft SQL Server, MySQL, PostgreSQL, MongoDB, SQLite
 - Server: NGINX, Microsoft IIS, Apache HTTP Server
 - GitHub, Plastic SCM
