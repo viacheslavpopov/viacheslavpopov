@@ -7,6 +7,9 @@
   </strong>
 </p>
 
+I'm a highly skilled and motivated PHP developer with 7 years of hands-on experience in designing and developing dynamic, static, and user-friendly websites/ web applications.
+
+As a PHP expert, I'm proficient in PHP frameworks and platforms with a strong attention to detail and a passion for creating exceptional user experiences.
 
 <p align="center">
  
