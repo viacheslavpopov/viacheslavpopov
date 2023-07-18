@@ -22,7 +22,6 @@ As a C# expert, I'm proficient in C# frameworks and platforms with a strong atte
 - Programming languages: C#
 - Frameworks and Libraries: .NET, .NET Core, ASP.NET, 
 - Database: MongoDB, Azure Cosmos DB
-- Server: NGINX, Microsoft IIS, Apache HTTP Server
 - Project management tools: Trello, Monday, Jira, Asana
 - Cloud: Azure DevOps, Azure Cosmos DB, Azure AD, Azure Data Factory
 - Communication: Teams, Slack
