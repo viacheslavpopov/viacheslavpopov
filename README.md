@@ -1,4 +1,4 @@
-<h1 align="center">I'm a 🌟PHP🌟 certified developer
+<h1 align="center">I'm a 🌟C#🌟 certified developer
 </h1>
 
 <p align="center">
@@ -7,9 +7,9 @@
   </strong>
 </p>
 
-I'm a highly skilled and motivated PHP developer with 7 years of hands-on experience in designing and developing dynamic, static, and user-friendly websites/ web applications.
+I'm a highly skilled and motivated C# developer with 7 years of hands-on experience in desktop app and web app development.
 
-As a PHP expert, I'm proficient in PHP frameworks and platforms with a strong attention to detail and a passion for creating exceptional user experiences.
+As a C# expert, I'm proficient in C# frameworks and platforms with a strong attention to detail and a passion for creating exceptional user experiences.
 
 <p align="center">
  
@@ -19,12 +19,12 @@ As a PHP expert, I'm proficient in PHP frameworks and platforms with a strong at
 
 <br />
 
-- Programming languages: PHP, JavaScript, HTML, CSS
-- Frameworks and Libraries: Laravel, WordPress, Symfony, 
-- Database: MySQL, PostgreSQL, MongoDB, SQLite
+- Programming languages: C#
+- Frameworks and Libraries: .NET, .NET Core, ASP.NET, 
+- Database: MS SQL, MongoDB, Azure Cosmos DB
 - Server: NGINX, Microsoft IIS, Apache HTTP Server
 - Project management tools: Trello, Monday, Jira, Asana
-- AWS, GCP
+- Cloud: Azure DevOps, Azure Cosmos DB, Azure AD, Azure Data Factory
 
 <p align="center">
  
