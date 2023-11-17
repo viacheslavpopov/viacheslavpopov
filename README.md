@@ -9,7 +9,7 @@
 
 I'm a highly skilled and motivated game developer with 7 years of hands-on experience.
 
-As a C# expert, I'm proficient in C# frameworks and platforms with a strong attention to detail and a passion for creating exceptional user experiences.
+As a senior game developer, I'm proficient in Unity, Unreal Engine, and Phaser game engines with a strong attention to detail and a passion for creating exceptional user experiences.
 
 <p align="center">
  
@@ -20,7 +20,7 @@ As a C# expert, I'm proficient in C# frameworks and platforms with a strong atte
 <br />
 
 - Programming languages: C#, C++, JavaScript, HTML5
-- Frameworks and Libraries: Unity, Unreal Engine, Phaser 
+- Game engine: Unity, Unreal Engine, Phaser 
 - Project management tools: Trello, Monday, Jira, Asana
 - Communication: Teams, Slack, Discord
 <p align="center">
