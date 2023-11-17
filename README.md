@@ -1,4 +1,4 @@
-<h1 align="center">I'm a 🌟C#🌟 certified developer
+<h1 align="center">I'm a certified game developer
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
   </strong>
 </p>
 
-I'm a highly skilled and motivated C# developer with 7 years of hands-on experience in desktop app and web app development.
+I'm a highly skilled and motivated game developer with 7 years of hands-on experience.
 
 As a C# expert, I'm proficient in C# frameworks and platforms with a strong attention to detail and a passion for creating exceptional user experiences.
 
@@ -19,12 +19,10 @@ As a C# expert, I'm proficient in C# frameworks and platforms with a strong atte
 
 <br />
 
-- Programming languages: C#
-- Frameworks and Libraries: .NET, .NET Core, ASP.NET, 
-- Database: MongoDB, Azure Cosmos DB
+- Programming languages: C#, C++, JavaScript, HTML5
+- Frameworks and Libraries: Unity, Unreal Engine, Phaser 
 - Project management tools: Trello, Monday, Jira, Asana
-- Cloud: Azure DevOps, Azure Cosmos DB, Azure AD, Azure Data Factory
-- Communication: Teams, Slack
+- Communication: Teams, Slack, Discord
 <p align="center">
  
 <!-- <img src="https://github.com/olehtopal/olehtopal/blob/main/csharp.svg" alt="csharp" width="100" height="100" /> -->
